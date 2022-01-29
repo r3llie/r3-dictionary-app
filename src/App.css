@@ -4,11 +4,8 @@
 
 .App-logo {
   max-width: 150px;
-  display: block;
-  margin: 0 auto;
   border-radius: 80%;
 }
 .App-footer {
-  text-align: center;
   margin: 30px 0;
 }
