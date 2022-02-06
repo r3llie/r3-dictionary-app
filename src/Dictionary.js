@@ -54,7 +54,7 @@ function handlePexelsResponse(response) {
             defaultValue={props.defaultKeyword} />
           </form>
           <div className="hint">
-            Suggestions: dance, art, cup, summer, joke...
+            Suggestions: dance, art, cup, stim, joy...
           </div>
         </section>
 
