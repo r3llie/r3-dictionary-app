@@ -14,7 +14,16 @@ export default function App() {
         </main>
         <footer className="App-footer">
           <small>
-            Coded by <a href="https://linktr.ee/r3llie">@r3llie</a> and is <a href="https://github.com/r3llie/r3-dictionary-app">
+            Coded by{" "}
+            <a href="https://linktr.ee/r3llie" target="_blank" rel="noreferrer">
+              @r3llie
+            </a>{" "}
+            and is{" "}
+            <a
+              href="https://github.com/r3llie/r3-dictionary-app"
+              target="_blank"
+              rel="noreferrer"
+            >
               open-sourced
             </a>
           </small>
