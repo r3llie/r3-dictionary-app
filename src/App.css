@@ -5,6 +5,8 @@ body {
 
 a {
   color: #ff8364;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 .App {

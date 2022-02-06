@@ -51,10 +51,10 @@ function handlePexelsResponse(response) {
             <h1>What word do you want to look up?</h1>
           <form onSubmit={handleSubmit} className="form">
             <input type="search" onChange={handleKeywordChange}
-            inputvalue={props.defaultKeyword} />
+            defaultValue={props.defaultKeyword} />
           </form>
           <div className="hint">
-            Suggested words: dance, music, cup, summer, joke...
+            Suggestions: dance, art, cup, summer, joke...
           </div>
         </section>
 
